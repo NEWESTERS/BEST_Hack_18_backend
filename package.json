@@ -11,10 +11,13 @@
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.18.2",
-    "bot-commander": "^1.1.1",
     "express": "^4.16.3",
     "express-session": "^1.15.6",
     "request": "^2.85.0",
     "socket.io": "^2.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NEWESTERS/BEST_Hack_18_backend.git"
   }
 }
